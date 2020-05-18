@@ -1,0 +1,5 @@
+public  class HelloWord{
+ public static void mian(String [] agrs){
+系统输出（“ Hello word”);
+}
+}
